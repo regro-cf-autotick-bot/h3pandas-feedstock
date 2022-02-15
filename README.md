@@ -120,5 +120,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@dahn](https://github.com/dahn/)
+* [@DahnJ](https://github.com/DahnJ/)
 
