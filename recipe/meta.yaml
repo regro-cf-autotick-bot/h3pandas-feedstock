@@ -33,7 +33,7 @@ test:
     - h3pandas
     - h3pandas.util
   commands:
-    - pytest tests
+    - pytest $SRC_DIR/tests
   requires:
     - pytest
 
